@@ -2,6 +2,7 @@
 
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import *
+from booking.input_handling import *
 from prettytable import PrettyTable
 from booking.filters import Filters
 import booking.constants as const
@@ -36,38 +37,65 @@ class Booking(webdriver.Firefox):
         ).click()
 
     def change_currency(self, desired_currency):
+        currency_found = False
+
         time.sleep(1)
 
         self.find_element(
             By.CLASS_NAME, 'bui-button.bui-button--light.bui-button--large'
         ).click()
 
-        self.find_element(
-            By.CSS_SELECTOR, f'a[data-modal-header-async-url-param*="selected_currency={desired_currency}"]'
-        ).click()
+        while not currency_found:
+            try:
+                self.find_element(
+                    By.CSS_SELECTOR, f'a[data-modal-header-async-url-param*="selected_currency={desired_currency}"]'
+                ).click()
+
+                currency_found = True
+            except NoSuchElementException:
+                desired_currency = handle_currency(currency_not_found=True)
 
     def select_destination(self, destination):
+        destination_found = False
+
         search_field = self.find_element(
             By.ID, 'ss'
         )
 
-        search_field.clear()
-        search_field.send_keys(destination)
+        while not destination_found:
+            try:
+                search_field.clear()
+                search_field.send_keys(destination)
 
-        self.find_element(
-            By.CSS_SELECTOR, 'li[data-i="0"]'
-        ).click()  # Select the first search result
+                time.sleep(1)
 
-        try:
+                self.find_element(
+                    By.CSS_SELECTOR, 'li[data-i="0"]'
+                ).click()  # Select the first search result
+
+                destination_found = True
+            except NoSuchElementException:
+                destination = handle_destination(destination_not_found=True)
+
+        if self.find_element(
+            By.CLASS_NAME, 'bui-checkbox.xp__results-on-map.sb-searchbox__map_trigger'
+        ).is_displayed():
             self.find_element(
                 By.CLASS_NAME, 'bui-checkbox.xp__results-on-map.sb-searchbox__map_trigger'
-            ).click()
-        except ElementNotInteractableException:
-            pass  # If the destination won't be shown on map, nothing has to be done.
+            ).click()  # Uncheck show on map if that's an option
 
-    def set_dates(self, check_in, check_out):
+    def set_dates(self, dates):
+        check_in = dates[0]
+        check_out = dates[1]
         check_in_not_set = True
         check_out_not_set = True
+
+        if not self.find_element(
+            By.CLASS_NAME, 'bui-calendar__control.bui-calendar__control--next'
+        ).is_displayed():
+            self.find_element(
+                By.CLASS_NAME, 'xp__dates-inner'
+            ).click()  # Click the calendar into view if not in view
 
         while check_in_not_set or check_out_not_set:
             try:
@@ -141,18 +169,20 @@ class Booking(webdriver.Firefox):
         apply_filter.sort_by_lowest_price()
 
     def report_results(self):
-        results = self.find_element(
-            By.CLASS_NAME, '_814193827'
-        )
+        try:
+            results = self.find_element(
+                By.CLASS_NAME, '_814193827'
+            )
 
-        report = Report(results)
+            report = Report(results)
+            report.get_result_elements()
 
-        report.get_result_elements()
+            table = PrettyTable(
+                field_names=["Name", "Price", "Score"]
+            )
+            table.add_rows(report.get_hotel_info())
 
-        table = PrettyTable(
-            field_names=["Name", "Price", "Score"]
-        )
-        table.add_rows(report.get_hotel_info())
-
-        print('\nHere are the results:\n')
-        print(table)
+            print('\nHere are the results:\n')
+            print(table)
+        except NoSuchElementException:
+            print('\nNo results to show. Exiting..')

@@ -3486,3 +3486,1809 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1637134818598	geckodriver	INFO	Listening on 127.0.0.1:36429
+1637134819100	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46849" "-no-remote" "-profile" "/tmp/rust_mozprofileQSuW9d"
+
+(firefox:8280): Gtk-WARNING **: 09:40:19.285: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8280): Gtk-WARNING **: 09:40:19.285: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8280): Gtk-WARNING **: 09:40:19.314: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8280): Gtk-WARNING **: 09:40:19.314: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8280): Gtk-WARNING **: 09:40:19.326: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8280): Gtk-WARNING **: 09:40:19.326: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637134819411	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQSuW9d/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46849/devtools/browser/f562e6d6-e762-4e37-9f6a-75405fe21a45
+1637134820239	Marionette	INFO	Listening on port 40875
+1637134820314	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637134823201	Marionette	INFO	Stopped listening on port 40875
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637134898769	geckodriver	INFO	Listening on 127.0.0.1:39933
+1637134898771	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46973" "-no-remote" "-profile" "/tmp/rust_mozprofilexON4ui"
+
+(firefox:8545): Gtk-WARNING **: 09:41:38.952: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8545): Gtk-WARNING **: 09:41:38.952: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8545): Gtk-WARNING **: 09:41:38.981: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8545): Gtk-WARNING **: 09:41:38.981: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8545): Gtk-WARNING **: 09:41:38.993: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8545): Gtk-WARNING **: 09:41:38.993: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637134899117	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexON4ui/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46973/devtools/browser/996a2d41-830a-40ea-8bb0-c4a123576a64
+1637134899895	Marionette	INFO	Listening on port 37367
+1637134899981	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637134921424	Marionette	INFO	Stopped listening on port 37367
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637135234836	geckodriver	INFO	Listening on 127.0.0.1:41553
+1637135234838	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42705" "-no-remote" "-profile" "/tmp/rust_mozprofileHwVBcx"
+
+(firefox:8934): Gtk-WARNING **: 09:47:14.998: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8934): Gtk-WARNING **: 09:47:14.998: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8934): Gtk-WARNING **: 09:47:15.026: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8934): Gtk-WARNING **: 09:47:15.026: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8934): Gtk-WARNING **: 09:47:15.037: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8934): Gtk-WARNING **: 09:47:15.037: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637135235118	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHwVBcx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42705/devtools/browser/1669033c-734c-4782-8928-a8efbd218cd5
+1637135235766	Marionette	INFO	Listening on port 36045
+1637135235853	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637135271184	Marionette	INFO	Stopped listening on port 36045
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637135292394	geckodriver	INFO	Listening on 127.0.0.1:53053
+1637135292395	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56313" "-no-remote" "-profile" "/tmp/rust_mozprofileMJIhtY"
+
+(firefox:9182): Gtk-WARNING **: 09:48:12.567: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9182): Gtk-WARNING **: 09:48:12.567: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9182): Gtk-WARNING **: 09:48:12.596: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9182): Gtk-WARNING **: 09:48:12.596: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9182): Gtk-WARNING **: 09:48:12.607: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9182): Gtk-WARNING **: 09:48:12.607: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637135292693	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileMJIhtY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56313/devtools/browser/53fdbcb7-8da3-48aa-bf8a-ebc09f0e2d5b
+1637135293391	Marionette	INFO	Listening on port 39875
+1637135293405	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637135357692	Marionette	INFO	Stopped listening on port 39875
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637135377471	geckodriver	INFO	Listening on 127.0.0.1:33847
+1637135377472	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59161" "-no-remote" "-profile" "/tmp/rust_mozprofile837CeE"
+
+(firefox:9433): Gtk-WARNING **: 09:49:37.640: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9433): Gtk-WARNING **: 09:49:37.640: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9433): Gtk-WARNING **: 09:49:37.671: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9433): Gtk-WARNING **: 09:49:37.671: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9433): Gtk-WARNING **: 09:49:37.682: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9433): Gtk-WARNING **: 09:49:37.682: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637135377767	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile837CeE/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59161/devtools/browser/9a95a093-3678-4f93-affe-13572865efd4
+1637135378520	Marionette	INFO	Listening on port 45447
+1637135378585	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637135416107	Marionette	INFO	Stopped listening on port 45447
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637135417094	geckodriver	INFO	Listening on 127.0.0.1:54797
+1637135417096	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43857" "-no-remote" "-profile" "/tmp/rust_mozprofile8CNBgW"
+
+(firefox:9669): Gtk-WARNING **: 09:50:17.258: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9669): Gtk-WARNING **: 09:50:17.258: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9669): Gtk-WARNING **: 09:50:17.286: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9669): Gtk-WARNING **: 09:50:17.286: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9669): Gtk-WARNING **: 09:50:17.298: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9669): Gtk-WARNING **: 09:50:17.298: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637135417392	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8CNBgW/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43857/devtools/browser/6cec20fd-4d3e-4343-ba1d-6b33aaa8ca8a
+1637135418062	Marionette	INFO	Listening on port 45087
+1637135418105	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637135449905	Marionette	INFO	Stopped listening on port 45087
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637135635085	geckodriver	INFO	Listening on 127.0.0.1:37497
+1637135635087	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44001" "-no-remote" "-profile" "/tmp/rust_mozprofileWAxCYT"
+
+(firefox:9958): Gtk-WARNING **: 09:53:55.240: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9958): Gtk-WARNING **: 09:53:55.240: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9958): Gtk-WARNING **: 09:53:55.269: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9958): Gtk-WARNING **: 09:53:55.269: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9958): Gtk-WARNING **: 09:53:55.280: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9958): Gtk-WARNING **: 09:53:55.280: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637135635365	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWAxCYT/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44001/devtools/browser/b6fd0fe2-31a3-4676-80b6-93a54b01c3b7
+1637135636038	Marionette	INFO	Listening on port 36155
+1637135636096	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637135690817	Marionette	INFO	Stopped listening on port 36155
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637135843844	geckodriver	INFO	Listening on 127.0.0.1:57517
+1637135843845	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42157" "-no-remote" "-profile" "/tmp/rust_mozprofileNByP8Z"
+
+(firefox:10243): Gtk-WARNING **: 09:57:23.999: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10243): Gtk-WARNING **: 09:57:23.999: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10243): Gtk-WARNING **: 09:57:24.028: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10243): Gtk-WARNING **: 09:57:24.028: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10243): Gtk-WARNING **: 09:57:24.039: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10243): Gtk-WARNING **: 09:57:24.039: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637135844109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileNByP8Z/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42157/devtools/browser/bee013f6-30cb-40c2-acef-427f1a83099d
+1637135844821	Marionette	INFO	Listening on port 40689
+1637135844859	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637135885889	Marionette	INFO	Stopped listening on port 40689
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637136477512	geckodriver	INFO	Listening on 127.0.0.1:33187
+1637136477514	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "39509" "-no-remote" "-profile" "/tmp/rust_mozprofileWfX6da"
+
+(firefox:10671): Gtk-WARNING **: 10:07:57.686: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10671): Gtk-WARNING **: 10:07:57.686: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10671): Gtk-WARNING **: 10:07:57.715: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10671): Gtk-WARNING **: 10:07:57.715: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10671): Gtk-WARNING **: 10:07:57.726: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10671): Gtk-WARNING **: 10:07:57.726: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637136477826	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWfX6da/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:39509/devtools/browser/74404dcc-a987-4f22-82ba-71c86401cdd8
+1637136478607	Marionette	INFO	Listening on port 42919
+1637136478622	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637136614205	Marionette	INFO	Stopped listening on port 42919
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637136630807	geckodriver	INFO	Listening on 127.0.0.1:33175
+1637136630809	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53203" "-no-remote" "-profile" "/tmp/rust_mozprofile92YmPc"
+
+(firefox:10978): Gtk-WARNING **: 10:10:31.008: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10978): Gtk-WARNING **: 10:10:31.008: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10978): Gtk-WARNING **: 10:10:31.044: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10978): Gtk-WARNING **: 10:10:31.044: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10978): Gtk-WARNING **: 10:10:31.055: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10978): Gtk-WARNING **: 10:10:31.055: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637136631170	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile92YmPc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53203/devtools/browser/60e121b1-0b34-4051-b633-1dc7fa685065
+1637136631931	Marionette	INFO	Listening on port 46423
+1637136632022	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637136695329	Marionette	INFO	Stopped listening on port 46423
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637136739675	geckodriver	INFO	Listening on 127.0.0.1:59349
+1637136739676	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44793" "-no-remote" "-profile" "/tmp/rust_mozprofileGbczh9"
+
+(firefox:11278): Gtk-WARNING **: 10:12:19.912: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11278): Gtk-WARNING **: 10:12:19.912: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11278): Gtk-WARNING **: 10:12:19.941: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11278): Gtk-WARNING **: 10:12:19.941: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11278): Gtk-WARNING **: 10:12:19.953: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11278): Gtk-WARNING **: 10:12:19.953: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637136740138	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGbczh9/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44793/devtools/browser/b30957ed-f9f0-4021-8a6a-0529107d5441
+1637136741011	Marionette	INFO	Listening on port 33505
+1637136741087	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637136973522	Marionette	INFO	Stopped listening on port 33505
+NetworkHelper.parseCertificateInfo threw an exception: Secure connection established without certificate.
+console.error: "Secure connection established without certificate."
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637136974450	geckodriver	INFO	Listening on 127.0.0.1:58329
+1637136974451	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59065" "-no-remote" "-profile" "/tmp/rust_mozprofileHR2h2p"
+
+(firefox:11644): Gtk-WARNING **: 10:16:14.626: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11644): Gtk-WARNING **: 10:16:14.626: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11644): Gtk-WARNING **: 10:16:14.655: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11644): Gtk-WARNING **: 10:16:14.655: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11644): Gtk-WARNING **: 10:16:14.667: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11644): Gtk-WARNING **: 10:16:14.667: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637136974776	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHR2h2p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59065/devtools/browser/63a8f9fa-dc60-4b66-a48e-2935015da62e
+1637136975592	Marionette	INFO	Listening on port 37153
+1637136975669	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637137695614	geckodriver	INFO	Listening on 127.0.0.1:46629
+1637137695616	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "49909" "-no-remote" "-profile" "/tmp/rust_mozprofiley1cyVt"
+
+(firefox:12088): Gtk-WARNING **: 10:28:15.843: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12088): Gtk-WARNING **: 10:28:15.843: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12088): Gtk-WARNING **: 10:28:15.879: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12088): Gtk-WARNING **: 10:28:15.879: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12088): Gtk-WARNING **: 10:28:15.891: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12088): Gtk-WARNING **: 10:28:15.891: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637137696016	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley1cyVt/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:49909/devtools/browser/22c41b30-6b1f-4946-b60a-4cd895f71852
+1637137696828	Marionette	INFO	Listening on port 40247
+1637137696927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637138292322	Marionette	INFO	Stopped listening on port 40247
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637138293391	geckodriver	INFO	Listening on 127.0.0.1:37131
+1637138293393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36719" "-no-remote" "-profile" "/tmp/rust_mozprofileduzFKZ"
+
+(firefox:12479): Gtk-WARNING **: 10:38:13.565: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12479): Gtk-WARNING **: 10:38:13.565: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12479): Gtk-WARNING **: 10:38:13.595: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12479): Gtk-WARNING **: 10:38:13.595: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12479): Gtk-WARNING **: 10:38:13.607: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12479): Gtk-WARNING **: 10:38:13.607: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637138293699	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileduzFKZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36719/devtools/browser/3ad74966-288d-4d79-9849-f9fffd8491e1
+1637138294540	Marionette	INFO	Listening on port 46263
+1637138294604	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637138384810	Marionette	INFO	Stopped listening on port 46263
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637138385537	geckodriver	INFO	Listening on 127.0.0.1:46933
+1637138385539	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43159" "-no-remote" "-profile" "/tmp/rust_mozprofile0uJrUB"
+
+(firefox:12753): Gtk-WARNING **: 10:39:45.696: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12753): Gtk-WARNING **: 10:39:45.696: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12753): Gtk-WARNING **: 10:39:45.726: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12753): Gtk-WARNING **: 10:39:45.726: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12753): Gtk-WARNING **: 10:39:45.737: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12753): Gtk-WARNING **: 10:39:45.737: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637138385819	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile0uJrUB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43159/devtools/browser/55f0ae6f-cf7c-4ec5-88a5-ce9d2124035f
+1637138386617	Marionette	INFO	Listening on port 40073
+1637138386647	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.booking.com/, line 24: ReferenceError: B is not defined
+1637138387970	Marionette	INFO	Stopped listening on port 40073
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1637138388972	geckodriver::marionette	ERROR	Failed to close browser connection: Transport endpoint is not connected (os error 107)
+1637138390147	geckodriver	INFO	Listening on 127.0.0.1:45435
+1637138390151	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50879" "-no-remote" "-profile" "/tmp/rust_mozprofileME77xU"
+
+(firefox:12986): Gtk-WARNING **: 10:39:50.334: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12986): Gtk-WARNING **: 10:39:50.334: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12986): Gtk-WARNING **: 10:39:50.364: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12986): Gtk-WARNING **: 10:39:50.364: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12986): Gtk-WARNING **: 10:39:50.376: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12986): Gtk-WARNING **: 10:39:50.376: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637138390477	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileME77xU/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50879/devtools/browser/a5af61ae-cd61-4fad-97b8-c914c5b860d3
+1637138391361	Marionette	INFO	Listening on port 41363
+1637138391460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637138450289	geckodriver	INFO	Listening on 127.0.0.1:57415
+1637138450293	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45287" "-no-remote" "-profile" "/tmp/rust_mozprofilejVM1oJ"
+
+(firefox:13242): Gtk-WARNING **: 10:40:50.477: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13242): Gtk-WARNING **: 10:40:50.477: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13242): Gtk-WARNING **: 10:40:50.506: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13242): Gtk-WARNING **: 10:40:50.506: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13242): Gtk-WARNING **: 10:40:50.518: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13242): Gtk-WARNING **: 10:40:50.518: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637138450619	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejVM1oJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45287/devtools/browser/5d93b7da-c631-4368-82ec-3b6e76c466d5
+1637138451452	Marionette	INFO	Listening on port 39737
+1637138451503	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637138799097	geckodriver	INFO	Listening on 127.0.0.1:44333
+1637138799099	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59395" "-no-remote" "-profile" "/tmp/rust_mozprofilesjcAEM"
+
+(firefox:13591): Gtk-WARNING **: 10:46:39.273: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13591): Gtk-WARNING **: 10:46:39.273: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13591): Gtk-WARNING **: 10:46:39.302: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13591): Gtk-WARNING **: 10:46:39.302: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13591): Gtk-WARNING **: 10:46:39.314: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13591): Gtk-WARNING **: 10:46:39.314: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637138799400	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesjcAEM/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59395/devtools/browser/318a7446-5b1d-4808-8e95-bb4098711f7b
+1637138800261	Marionette	INFO	Listening on port 46647
+1637138800309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637139111872	Marionette	INFO	Stopped listening on port 46647
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637139113027	geckodriver	INFO	Listening on 127.0.0.1:36779
+1637139113031	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47075" "-no-remote" "-profile" "/tmp/rust_mozprofileur4b12"
+
+(firefox:14019): Gtk-WARNING **: 10:51:53.190: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14019): Gtk-WARNING **: 10:51:53.190: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14019): Gtk-WARNING **: 10:51:53.220: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14019): Gtk-WARNING **: 10:51:53.220: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14019): Gtk-WARNING **: 10:51:53.232: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14019): Gtk-WARNING **: 10:51:53.232: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637139113330	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileur4b12/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47075/devtools/browser/43add5d2-a6f4-40dd-83a0-7cbed5cc3412
+1637139114231	Marionette	INFO	Listening on port 39307
+1637139114243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/actors/AutoCompleteChild.jsm, line 125: Error: Invalid autocomplete selectedIndex
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637139367020	geckodriver	INFO	Listening on 127.0.0.1:42491
+1637139367024	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53429" "-no-remote" "-profile" "/tmp/rust_mozprofileqUNlC2"
+
+(firefox:14418): Gtk-WARNING **: 10:56:07.201: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14418): Gtk-WARNING **: 10:56:07.202: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14418): Gtk-WARNING **: 10:56:07.231: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14418): Gtk-WARNING **: 10:56:07.231: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14418): Gtk-WARNING **: 10:56:07.243: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14418): Gtk-WARNING **: 10:56:07.243: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637139367339	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqUNlC2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53429/devtools/browser/3d1fdb42-8425-4c55-bd43-8e7e33e6e735
+1637139368158	Marionette	INFO	Listening on port 43583
+1637139368238	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637139496878	geckodriver	INFO	Listening on 127.0.0.1:39391
+1637139496881	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40433" "-no-remote" "-profile" "/tmp/rust_mozprofileQeHy8E"
+
+(firefox:14728): Gtk-WARNING **: 10:58:17.049: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14728): Gtk-WARNING **: 10:58:17.049: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14728): Gtk-WARNING **: 10:58:17.080: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14728): Gtk-WARNING **: 10:58:17.080: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14728): Gtk-WARNING **: 10:58:17.092: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14728): Gtk-WARNING **: 10:58:17.092: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637139497189	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileQeHy8E/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40433/devtools/browser/f0cef018-a861-40db-aa74-dd97880ff28b
+1637139498020	Marionette	INFO	Listening on port 41451
+1637139498093	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637139726261	geckodriver	INFO	Listening on 127.0.0.1:45061
+1637139726263	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50805" "-no-remote" "-profile" "/tmp/rust_mozprofileGoYZOO"
+
+(firefox:15112): Gtk-WARNING **: 11:02:06.424: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15112): Gtk-WARNING **: 11:02:06.424: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15112): Gtk-WARNING **: 11:02:06.453: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15112): Gtk-WARNING **: 11:02:06.453: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15112): Gtk-WARNING **: 11:02:06.464: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15112): Gtk-WARNING **: 11:02:06.464: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637139726539	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileGoYZOO/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50805/devtools/browser/0b7a051d-6f62-4589-8077-6e654553855e
+1637139727222	Marionette	INFO	Listening on port 42833
+1637139727274	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637139765513	Marionette	INFO	Stopped listening on port 42833
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637139798884	geckodriver	INFO	Listening on 127.0.0.1:40657
+1637139798887	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33225" "-no-remote" "-profile" "/tmp/rust_mozprofileJae8O0"
+
+(firefox:15407): Gtk-WARNING **: 11:03:19.071: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15407): Gtk-WARNING **: 11:03:19.071: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15407): Gtk-WARNING **: 11:03:19.101: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15407): Gtk-WARNING **: 11:03:19.101: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15407): Gtk-WARNING **: 11:03:19.113: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15407): Gtk-WARNING **: 11:03:19.113: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637139799262	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJae8O0/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33225/devtools/browser/c5cf03d5-9751-401f-b891-d53f9aee43ec
+1637139800095	Marionette	INFO	Listening on port 33277
+1637139800197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637139903385	geckodriver	INFO	Listening on 127.0.0.1:43421
+1637139903389	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47801" "-no-remote" "-profile" "/tmp/rust_mozprofile6F9llr"
+
+(firefox:15715): Gtk-WARNING **: 11:05:03.585: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15715): Gtk-WARNING **: 11:05:03.585: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15715): Gtk-WARNING **: 11:05:03.614: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15715): Gtk-WARNING **: 11:05:03.614: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15715): Gtk-WARNING **: 11:05:03.625: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15715): Gtk-WARNING **: 11:05:03.625: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637139903737	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6F9llr/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47801/devtools/browser/c1c56a50-b271-4dcd-85ef-18370fe8f734
+1637139904565	Marionette	INFO	Listening on port 46431
+1637139904598	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637139982436	geckodriver	INFO	Listening on 127.0.0.1:39541
+1637139982437	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56381" "-no-remote" "-profile" "/tmp/rust_mozprofile7wIIXC"
+
+(firefox:16004): Gtk-WARNING **: 11:06:22.620: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16004): Gtk-WARNING **: 11:06:22.620: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16004): Gtk-WARNING **: 11:06:22.648: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16004): Gtk-WARNING **: 11:06:22.648: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16004): Gtk-WARNING **: 11:06:22.660: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16004): Gtk-WARNING **: 11:06:22.660: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637139982763	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7wIIXC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56381/devtools/browser/bf452d38-f61e-41c3-879a-5f31873b20b7
+1637139983512	Marionette	INFO	Listening on port 39219
+1637139983547	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637140293161	geckodriver	INFO	Listening on 127.0.0.1:50609
+1637140293164	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52835" "-no-remote" "-profile" "/tmp/rust_mozprofilemHRHVK"
+
+(firefox:16328): Gtk-WARNING **: 11:11:33.368: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16328): Gtk-WARNING **: 11:11:33.369: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16328): Gtk-WARNING **: 11:11:33.398: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16328): Gtk-WARNING **: 11:11:33.398: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16328): Gtk-WARNING **: 11:11:33.411: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16328): Gtk-WARNING **: 11:11:33.411: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637140293529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilemHRHVK/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52835/devtools/browser/93736173-4015-4d47-a354-a5c910ac0223
+1637140294411	Marionette	INFO	Listening on port 45809
+1637140294474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637140297689	Marionette	INFO	Stopped listening on port 45809
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637140300744	geckodriver	INFO	Listening on 127.0.0.1:39875
+1637140300745	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47577" "-no-remote" "-profile" "/tmp/rust_mozprofile8mwCtX"
+
+(firefox:16575): Gtk-WARNING **: 11:11:40.926: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16575): Gtk-WARNING **: 11:11:40.926: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16575): Gtk-WARNING **: 11:11:40.955: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16575): Gtk-WARNING **: 11:11:40.955: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16575): Gtk-WARNING **: 11:11:40.966: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16575): Gtk-WARNING **: 11:11:40.966: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637140301050	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8mwCtX/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47577/devtools/browser/5404e321-7156-40e2-a26e-4b80bc2d4842
+1637140301861	Marionette	INFO	Listening on port 38227
+1637140301956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637140357333	geckodriver	INFO	Listening on 127.0.0.1:49535
+1637140357334	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58287" "-no-remote" "-profile" "/tmp/rust_mozprofileWsKy7p"
+
+(firefox:16889): Gtk-WARNING **: 11:12:37.519: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16889): Gtk-WARNING **: 11:12:37.519: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16889): Gtk-WARNING **: 11:12:37.550: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16889): Gtk-WARNING **: 11:12:37.550: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16889): Gtk-WARNING **: 11:12:37.563: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16889): Gtk-WARNING **: 11:12:37.563: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637140357673	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileWsKy7p/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58287/devtools/browser/d4fed45c-49d7-4e67-b2b2-bc15418ba8d4
+1637140358501	Marionette	INFO	Listening on port 44571
+1637140358544	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637140419487	geckodriver	INFO	Listening on 127.0.0.1:33419
+1637140419490	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50527" "-no-remote" "-profile" "/tmp/rust_mozprofileTgeBZA"
+
+(firefox:17153): Gtk-WARNING **: 11:13:39.666: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17153): Gtk-WARNING **: 11:13:39.666: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17153): Gtk-WARNING **: 11:13:39.695: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17153): Gtk-WARNING **: 11:13:39.695: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17153): Gtk-WARNING **: 11:13:39.706: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17153): Gtk-WARNING **: 11:13:39.706: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637140419815	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTgeBZA/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50527/devtools/browser/3a1713a2-cea0-4fc2-868d-5cc729012281
+1637140420713	Marionette	INFO	Listening on port 36057
+1637140420803	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637140633484	geckodriver	INFO	Listening on 127.0.0.1:33797
+1637140633486	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54689" "-no-remote" "-profile" "/tmp/rust_mozprofilelU5ilZ"
+
+(firefox:17486): Gtk-WARNING **: 11:17:13.662: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17486): Gtk-WARNING **: 11:17:13.662: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17486): Gtk-WARNING **: 11:17:13.691: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17486): Gtk-WARNING **: 11:17:13.692: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17486): Gtk-WARNING **: 11:17:13.703: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17486): Gtk-WARNING **: 11:17:13.703: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637140633860	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelU5ilZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54689/devtools/browser/c70bace9-e3f8-4630-95c9-ff6a15554c1c
+1637140634777	Marionette	INFO	Listening on port 41275
+1637140634796	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/73a2ad05a40f36b14f5c593862b5cbd95d6008bb.js, line 1: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/73a2ad05a40f36b14f5c593862b5cbd95d6008bb.js, line 1: unreachable code after return statement
+1637140703585	Marionette	INFO	Stopped listening on port 41275
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637140720223	geckodriver	INFO	Listening on 127.0.0.1:42495
+1637140720225	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60287" "-no-remote" "-profile" "/tmp/rust_mozprofilelpEUsJ"
+
+(firefox:17764): Gtk-WARNING **: 11:18:40.386: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17764): Gtk-WARNING **: 11:18:40.386: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17764): Gtk-WARNING **: 11:18:40.415: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17764): Gtk-WARNING **: 11:18:40.415: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17764): Gtk-WARNING **: 11:18:40.426: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:17764): Gtk-WARNING **: 11:18:40.426: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637140720527	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilelpEUsJ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60287/devtools/browser/05fe4b5b-0c74-4790-8fb8-2bd98de8ccb8
+1637140721421	Marionette	INFO	Listening on port 40667
+1637140721437	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/73a2ad05a40f36b14f5c593862b5cbd95d6008bb.js, line 1: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/73a2ad05a40f36b14f5c593862b5cbd95d6008bb.js, line 1: unreachable code after return statement
+1637140857434	Marionette	INFO	Stopped listening on port 40667
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637140868025	geckodriver	INFO	Listening on 127.0.0.1:56059
+1637140868027	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55745" "-no-remote" "-profile" "/tmp/rust_mozprofileLMR9So"
+
+(firefox:18051): Gtk-WARNING **: 11:21:08.244: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18051): Gtk-WARNING **: 11:21:08.244: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18051): Gtk-WARNING **: 11:21:08.273: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18051): Gtk-WARNING **: 11:21:08.273: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18051): Gtk-WARNING **: 11:21:08.285: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18051): Gtk-WARNING **: 11:21:08.285: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637140868366	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLMR9So/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55745/devtools/browser/2580f098-04c6-43e8-b822-d4f0db3814da
+1637140869229	Marionette	INFO	Listening on port 37355
+1637140869338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637141334959	Marionette	INFO	Stopped listening on port 37355
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637141336153	geckodriver	INFO	Listening on 127.0.0.1:59445
+1637141336157	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59495" "-no-remote" "-profile" "/tmp/rust_mozprofile2Ypv8y"
+
+(firefox:18465): Gtk-WARNING **: 11:28:56.366: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18465): Gtk-WARNING **: 11:28:56.366: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18465): Gtk-WARNING **: 11:28:56.395: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18465): Gtk-WARNING **: 11:28:56.395: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18465): Gtk-WARNING **: 11:28:56.406: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18465): Gtk-WARNING **: 11:28:56.406: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637141336514	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile2Ypv8y/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59495/devtools/browser/e42ae3ae-6a1e-4087-8abc-6028bbb0fe3c
+1637141337321	Marionette	INFO	Listening on port 42043
+1637141337369	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637141373278	Marionette	INFO	Stopped listening on port 42043
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637141468729	geckodriver	INFO	Listening on 127.0.0.1:41239
+1637141468731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47799" "-no-remote" "-profile" "/tmp/rust_mozprofileplcfx7"
+
+(firefox:18739): Gtk-WARNING **: 11:31:08.912: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18739): Gtk-WARNING **: 11:31:08.912: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18739): Gtk-WARNING **: 11:31:08.941: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18739): Gtk-WARNING **: 11:31:08.941: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18739): Gtk-WARNING **: 11:31:08.952: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:18739): Gtk-WARNING **: 11:31:08.952: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637141469069	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileplcfx7/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47799/devtools/browser/4177af27-51ad-4e2c-82f3-11481bdc49a8
+1637141469833	Marionette	INFO	Listening on port 38947
+1637141469941	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637141517826	Marionette	INFO	Stopped listening on port 38947
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637142660565	geckodriver	INFO	Listening on 127.0.0.1:54029
+1637142660566	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57541" "-no-remote" "-profile" "/tmp/rust_mozprofileDR8kA8"
+
+(firefox:19427): Gtk-WARNING **: 11:51:00.780: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19427): Gtk-WARNING **: 11:51:00.780: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19427): Gtk-WARNING **: 11:51:00.810: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19427): Gtk-WARNING **: 11:51:00.810: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19427): Gtk-WARNING **: 11:51:00.822: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19427): Gtk-WARNING **: 11:51:00.822: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637142660956	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDR8kA8/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57541/devtools/browser/54f46a1b-14b0-4ef7-96b7-8f44a6327174
+1637142661830	Marionette	INFO	Listening on port 44611
+1637142661875	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637142727959	geckodriver	INFO	Listening on 127.0.0.1:36113
+1637142727961	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36687" "-no-remote" "-profile" "/tmp/rust_mozprofile57msbx"
+
+(firefox:19704): Gtk-WARNING **: 11:52:08.153: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19704): Gtk-WARNING **: 11:52:08.153: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19704): Gtk-WARNING **: 11:52:08.183: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19704): Gtk-WARNING **: 11:52:08.183: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19704): Gtk-WARNING **: 11:52:08.195: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19704): Gtk-WARNING **: 11:52:08.195: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637142728342	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile57msbx/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36687/devtools/browser/b2242982-f92b-4954-9b1e-063591045c9d
+1637142729208	Marionette	INFO	Listening on port 43467
+1637142729272	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637142765751	geckodriver	INFO	Listening on 127.0.0.1:35393
+1637142765755	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37641" "-no-remote" "-profile" "/tmp/rust_mozprofilebAZNzd"
+
+(firefox:19954): Gtk-WARNING **: 11:52:45.951: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19954): Gtk-WARNING **: 11:52:45.951: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19954): Gtk-WARNING **: 11:52:45.980: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19954): Gtk-WARNING **: 11:52:45.980: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19954): Gtk-WARNING **: 11:52:45.991: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:19954): Gtk-WARNING **: 11:52:45.991: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637142766063	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilebAZNzd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37641/devtools/browser/c4891bb2-0ae2-45be-bbde-2d2fe9743374
+1637142766842	Marionette	INFO	Listening on port 33995
+1637142766864	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637142809081	geckodriver	INFO	Listening on 127.0.0.1:52577
+1637142809085	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38073" "-no-remote" "-profile" "/tmp/rust_mozprofilefYFS3P"
+
+(firefox:20198): Gtk-WARNING **: 11:53:29.266: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20198): Gtk-WARNING **: 11:53:29.266: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20198): Gtk-WARNING **: 11:53:29.297: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20198): Gtk-WARNING **: 11:53:29.297: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20198): Gtk-WARNING **: 11:53:29.309: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20198): Gtk-WARNING **: 11:53:29.309: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637142809440	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilefYFS3P/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38073/devtools/browser/4cd105d8-972a-4735-8892-886071396a0f
+1637142810401	Marionette	INFO	Listening on port 46211
+1637142810498	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637143033241	geckodriver	INFO	Listening on 127.0.0.1:51007
+1637143033244	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "57473" "-no-remote" "-profile" "/tmp/rust_mozprofileh5HVKj"
+
+(firefox:20554): Gtk-WARNING **: 11:57:13.414: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20554): Gtk-WARNING **: 11:57:13.414: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20554): Gtk-WARNING **: 11:57:13.443: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20554): Gtk-WARNING **: 11:57:13.443: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20554): Gtk-WARNING **: 11:57:13.455: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20554): Gtk-WARNING **: 11:57:13.455: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637143033559	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileh5HVKj/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:57473/devtools/browser/a10e3211-de66-4211-b4d0-a30b86486e01
+1637143034404	Marionette	INFO	Listening on port 44255
+1637143034455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637143087243	geckodriver	INFO	Listening on 127.0.0.1:45095
+1637143087245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "43361" "-no-remote" "-profile" "/tmp/rust_mozprofiley3KPIV"
+
+(firefox:20791): Gtk-WARNING **: 11:58:07.432: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20791): Gtk-WARNING **: 11:58:07.432: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20791): Gtk-WARNING **: 11:58:07.462: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20791): Gtk-WARNING **: 11:58:07.462: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20791): Gtk-WARNING **: 11:58:07.474: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:20791): Gtk-WARNING **: 11:58:07.474: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637143087612	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiley3KPIV/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:43361/devtools/browser/51ecdee7-5a5c-4de8-a598-b77bd08655e2
+1637143088455	Marionette	INFO	Listening on port 34303
+1637143088556	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/73a2ad05a40f36b14f5c593862b5cbd95d6008bb.js, line 1: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/73a2ad05a40f36b14f5c593862b5cbd95d6008bb.js, line 1: unreachable code after return statement
+1637143165539	Marionette	INFO	Stopped listening on port 34303
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637143443460	geckodriver	INFO	Listening on 127.0.0.1:52887
+1637143443463	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47851" "-no-remote" "-profile" "/tmp/rust_mozprofilezC8OzB"
+
+(firefox:21189): Gtk-WARNING **: 12:04:03.681: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21189): Gtk-WARNING **: 12:04:03.681: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21189): Gtk-WARNING **: 12:04:03.711: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21189): Gtk-WARNING **: 12:04:03.711: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21189): Gtk-WARNING **: 12:04:03.723: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21189): Gtk-WARNING **: 12:04:03.723: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637143443902	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilezC8OzB/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:47851/devtools/browser/2d085a74-ec22-4dcf-b1e5-cbb49a432ab1
+1637143444985	Marionette	INFO	Listening on port 46867
+1637143445075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637143595762	geckodriver	INFO	Listening on 127.0.0.1:57491
+1637143595766	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58505" "-no-remote" "-profile" "/tmp/rust_mozprofile6aJVpd"
+
+(firefox:21545): Gtk-WARNING **: 12:06:35.975: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21545): Gtk-WARNING **: 12:06:35.975: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21545): Gtk-WARNING **: 12:06:36.010: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21545): Gtk-WARNING **: 12:06:36.010: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21545): Gtk-WARNING **: 12:06:36.022: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21545): Gtk-WARNING **: 12:06:36.022: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637143596203	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile6aJVpd/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:58505/devtools/browser/1e89345a-82d9-42bb-a3f3-68a65aa2db57
+1637143597329	Marionette	INFO	Listening on port 39959
+1637143597379	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637143706208	geckodriver	INFO	Listening on 127.0.0.1:58511
+1637143706212	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "48821" "-no-remote" "-profile" "/tmp/rust_mozprofileLK3l25"
+
+(firefox:21812): Gtk-WARNING **: 12:08:26.416: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21812): Gtk-WARNING **: 12:08:26.416: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21812): Gtk-WARNING **: 12:08:26.446: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21812): Gtk-WARNING **: 12:08:26.446: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21812): Gtk-WARNING **: 12:08:26.457: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:21812): Gtk-WARNING **: 12:08:26.457: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637143706640	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileLK3l25/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:48821/devtools/browser/a83a2ca6-9ed5-4a5e-a095-9399201f8e00
+1637143707617	Marionette	INFO	Listening on port 36017
+1637143707738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637585578609	geckodriver	INFO	Listening on 127.0.0.1:35145
+1637585579112	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35981" "-no-remote" "-profile" "/tmp/rust_mozprofileVnX5XQ"
+
+(firefox:5054): Gtk-WARNING **: 14:52:59.281: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 14:52:59.281: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 14:52:59.308: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 14:52:59.308: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 14:52:59.318: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5054): Gtk-WARNING **: 14:52:59.318: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637585579423	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileVnX5XQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35981/devtools/browser/a7f53bf7-0863-4f05-b21b-42d4d8406482
+1637585580427	Marionette	INFO	Listening on port 42841
+1637585580523	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637585614398	Marionette	INFO	Stopped listening on port 42841
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637585974106	geckodriver	INFO	Listening on 127.0.0.1:49865
+1637585974108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "51197" "-no-remote" "-profile" "/tmp/rust_mozprofilexEt3MR"
+
+(firefox:5629): Gtk-WARNING **: 14:59:34.286: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5629): Gtk-WARNING **: 14:59:34.287: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5629): Gtk-WARNING **: 14:59:34.314: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5629): Gtk-WARNING **: 14:59:34.314: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5629): Gtk-WARNING **: 14:59:34.325: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5629): Gtk-WARNING **: 14:59:34.325: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637585974411	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilexEt3MR/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:51197/devtools/browser/f5a78f98-2a5c-4945-bf5a-b5bc3971825f
+1637585975170	Marionette	INFO	Listening on port 46347
+1637585975223	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637586009104	Marionette	INFO	Stopped listening on port 46347
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637586072189	geckodriver	INFO	Listening on 127.0.0.1:56939
+1637586072191	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34497" "-no-remote" "-profile" "/tmp/rust_mozprofile8KY8b6"
+
+(firefox:5934): Gtk-WARNING **: 15:01:12.366: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5934): Gtk-WARNING **: 15:01:12.366: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5934): Gtk-WARNING **: 15:01:12.394: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5934): Gtk-WARNING **: 15:01:12.394: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5934): Gtk-WARNING **: 15:01:12.405: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:5934): Gtk-WARNING **: 15:01:12.405: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637586072497	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8KY8b6/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34497/devtools/browser/5ae1e184-a8d9-410d-8e80-6c4d20f17610
+1637586073247	Marionette	INFO	Listening on port 37225
+1637586073300	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637586194205	geckodriver	INFO	Listening on 127.0.0.1:48287
+1637586194209	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "34671" "-no-remote" "-profile" "/tmp/rust_mozprofilepiemVN"
+
+(firefox:6223): Gtk-WARNING **: 15:03:14.373: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6223): Gtk-WARNING **: 15:03:14.373: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6223): Gtk-WARNING **: 15:03:14.401: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6223): Gtk-WARNING **: 15:03:14.401: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6223): Gtk-WARNING **: 15:03:14.412: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6223): Gtk-WARNING **: 15:03:14.412: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637586194486	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilepiemVN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:34671/devtools/browser/9fec1bdb-49b6-492f-8d4c-a0c4994de322
+1637586195223	Marionette	INFO	Listening on port 34181
+1637586195319	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637586203281	Marionette	INFO	Stopped listening on port 34181
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637586432562	geckodriver	INFO	Listening on 127.0.0.1:37251
+1637586432564	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "54163" "-no-remote" "-profile" "/tmp/rust_mozprofilenPhFTN"
+
+(firefox:6522): Gtk-WARNING **: 15:07:12.745: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6522): Gtk-WARNING **: 15:07:12.745: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6522): Gtk-WARNING **: 15:07:12.773: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6522): Gtk-WARNING **: 15:07:12.773: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6522): Gtk-WARNING **: 15:07:12.784: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6522): Gtk-WARNING **: 15:07:12.784: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637586432880	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenPhFTN/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:54163/devtools/browser/7e4d5dd5-86a4-496f-88fd-0b2ffdf34871
+1637586433636	Marionette	INFO	Listening on port 41837
+1637586433673	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637586979046	geckodriver	INFO	Listening on 127.0.0.1:56967
+1637586979048	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37289" "-no-remote" "-profile" "/tmp/rust_mozprofileD9eTYH"
+
+(firefox:6900): Gtk-WARNING **: 15:16:19.214: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6900): Gtk-WARNING **: 15:16:19.214: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6900): Gtk-WARNING **: 15:16:19.242: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6900): Gtk-WARNING **: 15:16:19.242: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6900): Gtk-WARNING **: 15:16:19.253: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:6900): Gtk-WARNING **: 15:16:19.253: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637586979349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileD9eTYH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37289/devtools/browser/2dcd102a-f661-44bc-b79c-435d996d7c43
+1637586980056	Marionette	INFO	Listening on port 42055
+1637586980160	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637587011086	Marionette	INFO	Stopped listening on port 42055
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637587135220	geckodriver	INFO	Listening on 127.0.0.1:41615
+1637587135224	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33009" "-no-remote" "-profile" "/tmp/rust_mozprofileU3j6zQ"
+
+(firefox:7189): Gtk-WARNING **: 15:18:55.383: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7189): Gtk-WARNING **: 15:18:55.383: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7189): Gtk-WARNING **: 15:18:55.411: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7189): Gtk-WARNING **: 15:18:55.411: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7189): Gtk-WARNING **: 15:18:55.422: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7189): Gtk-WARNING **: 15:18:55.422: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637587135494	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileU3j6zQ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33009/devtools/browser/be4512b5-126c-4196-bd2d-3639417b2fdd
+1637587136161	Marionette	INFO	Listening on port 37655
+1637587136245	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637587249531	geckodriver	INFO	Listening on 127.0.0.1:49117
+1637587249535	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44925" "-no-remote" "-profile" "/tmp/rust_mozprofilegpPEMs"
+
+(firefox:7489): Gtk-WARNING **: 15:20:49.696: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7489): Gtk-WARNING **: 15:20:49.696: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7489): Gtk-WARNING **: 15:20:49.723: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7489): Gtk-WARNING **: 15:20:49.723: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7489): Gtk-WARNING **: 15:20:49.734: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7489): Gtk-WARNING **: 15:20:49.734: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637587249814	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegpPEMs/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:44925/devtools/browser/fac39ceb-0e7a-4f01-ad69-be35a38e776d
+1637587250531	Marionette	INFO	Listening on port 40965
+1637587250545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637587376533	Marionette	INFO	Stopped listening on port 40965
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637587382005	geckodriver	INFO	Listening on 127.0.0.1:52531
+1637587382007	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35305" "-no-remote" "-profile" "/tmp/rust_mozprofile7QaYqw"
+
+(firefox:7835): Gtk-WARNING **: 15:23:02.165: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7835): Gtk-WARNING **: 15:23:02.165: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7835): Gtk-WARNING **: 15:23:02.196: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7835): Gtk-WARNING **: 15:23:02.196: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7835): Gtk-WARNING **: 15:23:02.208: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:7835): Gtk-WARNING **: 15:23:02.208: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637587382281	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7QaYqw/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:35305/devtools/browser/dd27b2a9-efe5-481a-b62b-8ca37646c1d8
+1637587382959	Marionette	INFO	Listening on port 37391
+1637587383016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637589963592	geckodriver	INFO	Listening on 127.0.0.1:40379
+1637589963593	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60035" "-no-remote" "-profile" "/tmp/rust_mozprofilee5pBpH"
+
+(firefox:8947): Gtk-WARNING **: 16:06:03.747: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8947): Gtk-WARNING **: 16:06:03.747: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8947): Gtk-WARNING **: 16:06:03.779: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8947): Gtk-WARNING **: 16:06:03.779: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8947): Gtk-WARNING **: 16:06:03.792: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:8947): Gtk-WARNING **: 16:06:03.792: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637589963869	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilee5pBpH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60035/devtools/browser/cf2ace7c-4447-4427-961d-b3914b7827c9
+1637589964541	Marionette	INFO	Listening on port 43455
+1637589964605	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637590045409	geckodriver	INFO	Listening on 127.0.0.1:48245
+1637590045411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36223" "-no-remote" "-profile" "/tmp/rust_mozprofileDKuBNG"
+
+(firefox:9253): Gtk-WARNING **: 16:07:25.579: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9253): Gtk-WARNING **: 16:07:25.579: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9253): Gtk-WARNING **: 16:07:25.606: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9253): Gtk-WARNING **: 16:07:25.606: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9253): Gtk-WARNING **: 16:07:25.617: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9253): Gtk-WARNING **: 16:07:25.617: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637590045690	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDKuBNG/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36223/devtools/browser/c3fd69a7-b66f-469d-9544-f3c3b9320158
+1637590046381	Marionette	INFO	Listening on port 38915
+1637590046419	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637590167674	Marionette	INFO	Stopped listening on port 38915
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637590195213	geckodriver	INFO	Listening on 127.0.0.1:39937
+1637590195216	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53571" "-no-remote" "-profile" "/tmp/rust_mozprofileuCvv8n"
+
+(firefox:9582): Gtk-WARNING **: 16:09:55.379: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9582): Gtk-WARNING **: 16:09:55.379: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9582): Gtk-WARNING **: 16:09:55.407: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9582): Gtk-WARNING **: 16:09:55.407: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9582): Gtk-WARNING **: 16:09:55.418: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9582): Gtk-WARNING **: 16:09:55.418: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637590195490	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileuCvv8n/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53571/devtools/browser/b89e6272-3835-4065-9693-9579f6c0b455
+1637590196194	Marionette	INFO	Listening on port 43299
+1637590196225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637590200694	Marionette	INFO	Stopped listening on port 43299
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637590210589	geckodriver	INFO	Listening on 127.0.0.1:52357
+1637590210592	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56627" "-no-remote" "-profile" "/tmp/rust_mozprofilehDylMn"
+
+(firefox:9828): Gtk-WARNING **: 16:10:10.740: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9828): Gtk-WARNING **: 16:10:10.740: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9828): Gtk-WARNING **: 16:10:10.767: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9828): Gtk-WARNING **: 16:10:10.767: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9828): Gtk-WARNING **: 16:10:10.778: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:9828): Gtk-WARNING **: 16:10:10.778: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637590210856	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehDylMn/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56627/devtools/browser/5d2ad70f-3d83-4e35-8d05-5e74ae8a6f68
+1637590211600	Marionette	INFO	Listening on port 45929
+1637590211708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: (new TypeError("parent is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 67))
+TypeError: parent is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:67:24
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+getMutations@resource://devtools/client/fronts/walker.js:311:10
+
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637590469679	geckodriver	INFO	Listening on 127.0.0.1:48941
+1637590469683	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40897" "-no-remote" "-profile" "/tmp/rust_mozprofilep2toER"
+
+(firefox:10278): Gtk-WARNING **: 16:14:29.844: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10278): Gtk-WARNING **: 16:14:29.844: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10278): Gtk-WARNING **: 16:14:29.871: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10278): Gtk-WARNING **: 16:14:29.871: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10278): Gtk-WARNING **: 16:14:29.882: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10278): Gtk-WARNING **: 16:14:29.882: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637590469954	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilep2toER/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:40897/devtools/browser/18fab6e5-353f-47d9-91fd-73487f52eac0
+1637590470688	Marionette	INFO	Listening on port 42835
+1637590470797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637590616683	geckodriver	INFO	Listening on 127.0.0.1:43021
+1637590616686	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41383" "-no-remote" "-profile" "/tmp/rust_mozprofileFG913o"
+
+(firefox:10637): Gtk-WARNING **: 16:16:56.849: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10637): Gtk-WARNING **: 16:16:56.849: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10637): Gtk-WARNING **: 16:16:56.877: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10637): Gtk-WARNING **: 16:16:56.877: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10637): Gtk-WARNING **: 16:16:56.888: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:10637): Gtk-WARNING **: 16:16:56.888: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637590616967	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFG913o/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41383/devtools/browser/0b86c557-b555-456e-8bd9-55801498e904
+1637590617699	Marionette	INFO	Listening on port 40161
+1637590617800	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+1637590755336	Marionette	INFO	Stopped listening on port 40161
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637590756106	geckodriver	INFO	Listening on 127.0.0.1:39251
+1637590756108	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45291" "-no-remote" "-profile" "/tmp/rust_mozprofilej3ig76"
+
+(firefox:11030): Gtk-WARNING **: 16:19:16.263: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11030): Gtk-WARNING **: 16:19:16.263: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11030): Gtk-WARNING **: 16:19:16.291: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11030): Gtk-WARNING **: 16:19:16.291: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11030): Gtk-WARNING **: 16:19:16.301: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11030): Gtk-WARNING **: 16:19:16.301: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637590756376	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilej3ig76/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:45291/devtools/browser/7559368a-a737-4742-96fe-0ab79b8285ee
+1637590757069	Marionette	INFO	Listening on port 35701
+1637590757117	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+1637590822047	Marionette	INFO	Stopped listening on port 35701
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x5B0008,name=PHttpChannel::Msg_DeletingChannel) Channel closing: too late to send/recv, messages will be lost
+
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637591547724	geckodriver	INFO	Listening on 127.0.0.1:60991
+1637591547727	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52935" "-no-remote" "-profile" "/tmp/rust_mozprofilen1dDSC"
+
+(firefox:11684): Gtk-WARNING **: 16:32:27.890: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11684): Gtk-WARNING **: 16:32:27.890: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11684): Gtk-WARNING **: 16:32:27.917: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11684): Gtk-WARNING **: 16:32:27.917: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11684): Gtk-WARNING **: 16:32:27.928: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:11684): Gtk-WARNING **: 16:32:27.928: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637591547999	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilen1dDSC/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52935/devtools/browser/a9d8fe20-2719-4085-a4bf-774f91605dc5
+1637591548702	Marionette	INFO	Listening on port 36975
+1637591548736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+1637591642176	Marionette	INFO	Stopped listening on port 36975
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637591962408	geckodriver	INFO	Listening on 127.0.0.1:47767
+1637591962410	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42063" "-no-remote" "-profile" "/tmp/rust_mozprofileO34Gy2"
+
+(firefox:12006): Gtk-WARNING **: 16:39:22.560: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12006): Gtk-WARNING **: 16:39:22.560: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12006): Gtk-WARNING **: 16:39:22.588: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12006): Gtk-WARNING **: 16:39:22.588: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12006): Gtk-WARNING **: 16:39:22.599: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12006): Gtk-WARNING **: 16:39:22.599: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637591962678	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileO34Gy2/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42063/devtools/browser/35c871d7-ae6d-48d8-a54b-cd5db5abd55c
+1637591963383	Marionette	INFO	Listening on port 43575
+1637591963420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637591998897	Marionette	INFO	Stopped listening on port 43575
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637592133239	geckodriver	INFO	Listening on 127.0.0.1:42485
+1637592133241	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "46885" "-no-remote" "-profile" "/tmp/rust_mozprofilehbxlAY"
+
+(firefox:12304): Gtk-WARNING **: 16:42:13.401: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12304): Gtk-WARNING **: 16:42:13.401: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12304): Gtk-WARNING **: 16:42:13.429: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12304): Gtk-WARNING **: 16:42:13.429: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12304): Gtk-WARNING **: 16:42:13.440: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12304): Gtk-WARNING **: 16:42:13.440: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637592133522	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehbxlAY/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:46885/devtools/browser/0baa327c-6a7a-420e-bbb8-5564c3b9d521
+1637592134262	Marionette	INFO	Listening on port 42971
+1637592134351	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637592731215	geckodriver	INFO	Listening on 127.0.0.1:57459
+1637592731217	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "50801" "-no-remote" "-profile" "/tmp/rust_mozprofile7Phq1o"
+
+(firefox:12708): Gtk-WARNING **: 16:52:11.373: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12708): Gtk-WARNING **: 16:52:11.373: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12708): Gtk-WARNING **: 16:52:11.401: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12708): Gtk-WARNING **: 16:52:11.401: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12708): Gtk-WARNING **: 16:52:11.412: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12708): Gtk-WARNING **: 16:52:11.412: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637592731484	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile7Phq1o/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:50801/devtools/browser/8e5068bc-e00c-4549-863f-dd480650c262
+1637592732232	Marionette	INFO	Listening on port 40087
+1637592732334	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637592913026	geckodriver	INFO	Listening on 127.0.0.1:46233
+1637592913030	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "53759" "-no-remote" "-profile" "/tmp/rust_mozprofile8AhIY3"
+
+(firefox:12966): Gtk-WARNING **: 16:55:13.183: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12966): Gtk-WARNING **: 16:55:13.183: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12966): Gtk-WARNING **: 16:55:13.211: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12966): Gtk-WARNING **: 16:55:13.211: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12966): Gtk-WARNING **: 16:55:13.222: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:12966): Gtk-WARNING **: 16:55:13.222: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637592913297	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8AhIY3/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:53759/devtools/browser/0d736102-a9d6-43c7-b277-aba74526bc73
+1637592914017	Marionette	INFO	Listening on port 45105
+1637592914039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637592967832	geckodriver	INFO	Listening on 127.0.0.1:55023
+1637592967836	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33909" "-no-remote" "-profile" "/tmp/rust_mozprofileatXPMI"
+
+(firefox:13207): Gtk-WARNING **: 16:56:07.998: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13207): Gtk-WARNING **: 16:56:07.998: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13207): Gtk-WARNING **: 16:56:08.027: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13207): Gtk-WARNING **: 16:56:08.027: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13207): Gtk-WARNING **: 16:56:08.038: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13207): Gtk-WARNING **: 16:56:08.038: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637592968109	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileatXPMI/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:33909/devtools/browser/cdf3a068-7dde-412a-bf2f-089aa7d69b8c
+1637592968822	Marionette	INFO	Listening on port 44233
+1637592968845	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637593030887	geckodriver	INFO	Listening on 127.0.0.1:48227
+1637593030890	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60405" "-no-remote" "-profile" "/tmp/rust_mozprofileHHqDqc"
+
+(firefox:13459): Gtk-WARNING **: 16:57:11.055: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13459): Gtk-WARNING **: 16:57:11.055: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13459): Gtk-WARNING **: 16:57:11.083: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13459): Gtk-WARNING **: 16:57:11.083: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13459): Gtk-WARNING **: 16:57:11.094: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13459): Gtk-WARNING **: 16:57:11.094: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637593031167	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHHqDqc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:60405/devtools/browser/ecf18f93-9eaa-415b-ab51-bd0801e28d9d
+1637593031950	Marionette	INFO	Listening on port 45265
+1637593032002	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637593110541	geckodriver	INFO	Listening on 127.0.0.1:57403
+1637593110545	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "36603" "-no-remote" "-profile" "/tmp/rust_mozprofilesqsbat"
+
+(firefox:13709): Gtk-WARNING **: 16:58:30.713: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13709): Gtk-WARNING **: 16:58:30.713: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13709): Gtk-WARNING **: 16:58:30.741: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13709): Gtk-WARNING **: 16:58:30.741: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13709): Gtk-WARNING **: 16:58:30.752: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13709): Gtk-WARNING **: 16:58:30.752: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637593110823	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilesqsbat/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:36603/devtools/browser/31094156-6dae-4909-bc55-7bc61866a005
+1637593111533	Marionette	INFO	Listening on port 46861
+1637593111554	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+Exiting due to channel error.
+Exiting due to channel error.
+1637593273999	geckodriver	INFO	Listening on 127.0.0.1:57965
+1637593274000	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38051" "-no-remote" "-profile" "/tmp/rust_mozprofilez4yo8J"
+
+(firefox:13987): Gtk-WARNING **: 17:01:14.151: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13987): Gtk-WARNING **: 17:01:14.151: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13987): Gtk-WARNING **: 17:01:14.179: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13987): Gtk-WARNING **: 17:01:14.179: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13987): Gtk-WARNING **: 17:01:14.191: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:13987): Gtk-WARNING **: 17:01:14.191: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637593274271	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilez4yo8J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38051/devtools/browser/f191ca62-c0ed-4f46-b121-b2520f671d40
+1637593274995	Marionette	INFO	Listening on port 42651
+1637593275014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637593335291	Marionette	INFO	Stopped listening on port 42651
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637593381174	geckodriver	INFO	Listening on 127.0.0.1:36089
+1637593381176	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38123" "-no-remote" "-profile" "/tmp/rust_mozprofileR8ptcF"
+
+(firefox:14258): Gtk-WARNING **: 17:03:01.332: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14258): Gtk-WARNING **: 17:03:01.332: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14258): Gtk-WARNING **: 17:03:01.360: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14258): Gtk-WARNING **: 17:03:01.360: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14258): Gtk-WARNING **: 17:03:01.371: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14258): Gtk-WARNING **: 17:03:01.371: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637593381460	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileR8ptcF/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:38123/devtools/browser/afc0272d-599d-4972-9ab4-206b55786065
+1637593382164	Marionette	INFO	Listening on port 44073
+1637593382185	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1637593449410	Marionette	INFO	Stopped listening on port 44073
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637593577152	geckodriver	INFO	Listening on 127.0.0.1:48117
+1637593577155	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "56105" "-no-remote" "-profile" "/tmp/rust_mozprofileXhumLZ"
+
+(firefox:14546): Gtk-WARNING **: 17:06:17.338: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14546): Gtk-WARNING **: 17:06:17.338: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14546): Gtk-WARNING **: 17:06:17.371: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14546): Gtk-WARNING **: 17:06:17.371: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14546): Gtk-WARNING **: 17:06:17.383: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14546): Gtk-WARNING **: 17:06:17.383: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637593577462	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileXhumLZ/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:56105/devtools/browser/59d1b267-aa92-4663-92f8-0bfcc4bb5dd9
+1637593578138	Marionette	INFO	Listening on port 33031
+1637593578164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+1637593749766	Marionette	INFO	Stopped listening on port 33031
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1637593753247	geckodriver	INFO	Listening on 127.0.0.1:49513
+1637593753249	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "42155" "-no-remote" "-profile" "/tmp/rust_mozprofileCfGS60"
+
+(firefox:14899): Gtk-WARNING **: 17:09:13.406: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14899): Gtk-WARNING **: 17:09:13.406: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14899): Gtk-WARNING **: 17:09:13.434: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14899): Gtk-WARNING **: 17:09:13.434: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14899): Gtk-WARNING **: 17:09:13.445: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:14899): Gtk-WARNING **: 17:09:13.445: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637593753517	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileCfGS60/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:42155/devtools/browser/6d8d620f-be0a-487b-ae0a-95c4a19a549b
+1637593754214	Marionette	INFO	Listening on port 36263
+1637593754264	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+1637593796655	Marionette	INFO	Stopped listening on port 36263
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637593800904	geckodriver	INFO	Listening on 127.0.0.1:49105
+1637593800905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55743" "-no-remote" "-profile" "/tmp/rust_mozprofileqtTUjH"
+
+(firefox:15140): Gtk-WARNING **: 17:10:01.054: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15140): Gtk-WARNING **: 17:10:01.054: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15140): Gtk-WARNING **: 17:10:01.081: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15140): Gtk-WARNING **: 17:10:01.081: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15140): Gtk-WARNING **: 17:10:01.092: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15140): Gtk-WARNING **: 17:10:01.092: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637593801166	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqtTUjH/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:55743/devtools/browser/f537212d-093f-4fa2-896b-adbdcf47b42c
+1637593801911	Marionette	INFO	Listening on port 35855
+1637593802015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1637594222845	Marionette	INFO	Stopped listening on port 35855
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637594223920	geckodriver	INFO	Listening on 127.0.0.1:58029
+1637594223921	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52319" "-no-remote" "-profile" "/tmp/rust_mozprofileEcSe4J"
+
+(firefox:15526): Gtk-WARNING **: 17:17:04.080: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15526): Gtk-WARNING **: 17:17:04.080: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15526): Gtk-WARNING **: 17:17:04.107: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15526): Gtk-WARNING **: 17:17:04.107: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15526): Gtk-WARNING **: 17:17:04.118: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15526): Gtk-WARNING **: 17:17:04.118: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637594224184	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEcSe4J/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:52319/devtools/browser/da736e27-ee7f-45b9-b069-a23d0d6651e8
+1637594224940	Marionette	INFO	Listening on port 45613
+1637594225032	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+1637594500117	Marionette	INFO	Stopped listening on port 45613
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637594511013	geckodriver	INFO	Listening on 127.0.0.1:56811
+1637594511015	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "59673" "-no-remote" "-profile" "/tmp/rust_mozprofileijLKnc"
+
+(firefox:15870): Gtk-WARNING **: 17:21:51.209: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15870): Gtk-WARNING **: 17:21:51.209: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15870): Gtk-WARNING **: 17:21:51.237: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15870): Gtk-WARNING **: 17:21:51.237: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15870): Gtk-WARNING **: 17:21:51.249: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:15870): Gtk-WARNING **: 17:21:51.249: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637594511325	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileijLKnc/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:59673/devtools/browser/a41fb92b-d510-4be8-88d5-4b2a453f6451
+1637594512060	Marionette	INFO	Listening on port 43823
+1637594512127	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+1637594663365	Marionette	INFO	Stopped listening on port 43823
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637594664465	geckodriver	INFO	Listening on 127.0.0.1:50965
+1637594664467	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41421" "-no-remote" "-profile" "/tmp/rust_mozprofileAO0d8i"
+
+(firefox:16135): Gtk-WARNING **: 17:24:24.625: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16135): Gtk-WARNING **: 17:24:24.625: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16135): Gtk-WARNING **: 17:24:24.652: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16135): Gtk-WARNING **: 17:24:24.652: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16135): Gtk-WARNING **: 17:24:24.663: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16135): Gtk-WARNING **: 17:24:24.663: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637594664743	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileAO0d8i/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:41421/devtools/browser/3ee3f935-26c5-49ce-a2b1-b911d460c765
+1637594665424	Marionette	INFO	Listening on port 35919
+1637594665478	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+1637594897887	Marionette	INFO	Stopped listening on port 35919
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637595200216	geckodriver	INFO	Listening on 127.0.0.1:38103
+1637595200218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37295" "-no-remote" "-profile" "/tmp/rust_mozprofileyI81zS"
+
+(firefox:16740): Gtk-WARNING **: 17:33:20.381: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16740): Gtk-WARNING **: 17:33:20.381: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16740): Gtk-WARNING **: 17:33:20.409: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16740): Gtk-WARNING **: 17:33:20.409: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16740): Gtk-WARNING **: 17:33:20.420: Theme parsing error: gtk.css:69:36: The style property GtkCheckMenuItem:indicator-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+
+(firefox:16740): Gtk-WARNING **: 17:33:20.420: Theme parsing error: gtk.css:73:30: The style property GtkExpander:expander-size is deprecated and shouldn't be used anymore. It will be removed in a future version
+1637595200501	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileyI81zS/search.json.mozlz4", (void 0)))
+DevTools listening on ws://localhost:37295/devtools/browser/ab7db249-7c77-4abb-b5b5-bacb685c2d88
+1637595201249	Marionette	INFO	Listening on port 37961
+1637595201329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+JavaScript warning: https://cf.bstatic.com/static/js/searchresults_cloudfront_sd/43fe7c0c134f491f5df5a9bf8cc148431515ccc0.js, line 1: unreachable code after return statement
+1637595242932	Marionette	INFO	Stopped listening on port 37961
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

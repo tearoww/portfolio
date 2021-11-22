@@ -11,17 +11,24 @@ class Filters:
         self.driver = driver
 
     def by_rating(self, *desired_ratings):
-        rating_box = self.driver.find_element(
-            By.CSS_SELECTOR, 'div[data-filters-group="class"]'
-        )
+        zero_results_text = self.driver.find_element(
+            By.CLASS_NAME, '_30227359d._0db903e42'
+        ).text
 
-        for rating in desired_ratings:
-            try:
-                rating_box.find_element(
-                    By.CSS_SELECTOR, f'div[data-filters-item="class:class={rating}"]'
-                ).click()
-            except NoSuchElementException:
-                print(f'No results with {rating} star rating were found.')
+        if zero_results_text == '0 properties are available in and around this destination':
+            print('\n' + zero_results_text)
+        else:
+            rating_box = self.driver.find_element(
+                By.CSS_SELECTOR, 'div[data-filters-group="class"]'
+            )
+
+            for rating in desired_ratings:
+                try:
+                    rating_box.find_element(
+                        By.CSS_SELECTOR, f'div[data-filters-item="class:class={rating}"]'
+                    ).click()
+                except NoSuchElementException:
+                    print(f'No results with {rating} star rating were found.')
 
     def sort_by_lowest_price(self):
         time.sleep(2)

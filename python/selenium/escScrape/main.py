@@ -1,13 +1,14 @@
 from selenium.webdriver.common.by import By
 from selenium import webdriver
 from datetime import datetime
-import openpyxl
 import pandas
 
 site = "https://eurovisionworld.com/eurovision/"
 driver = webdriver.Firefox()
 year = datetime.now().year
-all_tables = {}
+running_places = {}
+runnings = []
+places = []
 
 driver.implicitly_wait(0.5)
 driver.maximize_window()
@@ -20,6 +21,8 @@ while year >= 1956:
         table = pandas.read_html(table_html.get_attribute('outerHTML'))
 
         for df in table:
-            df.to_csv(str(year) + ".csv")
+            counter = # Whichever is longer!!
+            while len:
+                pass
 
     year -= 1
